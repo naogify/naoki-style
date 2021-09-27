@@ -1504,7 +1504,7 @@
     text-offset:
     - 0
     - 0.6
-    text-size: 12
+    text-size: $poi-text-size
     text-max-width: 9
   paint:
     text-halo-blur: 0.5
