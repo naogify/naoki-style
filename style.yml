@@ -5,6 +5,7 @@ $name: My Style
 $background-color: "#2F4C74"
 $water-color: "#a8dadc"
 $road-color: "#FFFFFF"
+$poi-text-size: 13
 
 
 # 以下は上級者専用
