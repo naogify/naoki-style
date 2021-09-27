@@ -3,7 +3,7 @@ $name: My Style
 
 # 主な配色
 $background-color: "#2F4C74"
-$water-color: "#2f4c74ab"
+$water-color: "rgba(47,76,116,0.67)"
 $road-color: "#FFFFFF"
 
 
