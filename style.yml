@@ -2,8 +2,8 @@
 $name: My Style
 
 # 主な配色
-$background-color: "#F84646"
-$water-color: "#FAAF25"
+$background-color: "#2F4C74"
+$water-color: "#B0853D"
 $road-color: "#FFFFFF"
 
 
