@@ -17,8 +17,8 @@ jobs:
 
       - name: Install the `vt-style`
         run: |
-          git clone https://github.com/geolonia/vt-style.git
-          cd vt-style
+          git clone https://github.com/geolonia/charites.git
+          cd charites
           npm install
           npm run build
           npm install -g .
