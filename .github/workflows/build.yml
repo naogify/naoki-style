@@ -26,8 +26,8 @@ jobs:
       - name: Convert YAML to Style
         run: |
           cd $GITHUB_WORKSPACE
-          vt-style build style.yml style.json
-          echo "vt-style" > .gitignore
+          charites build style.yml style.json
+          echo "charites" > .gitignore
 
       - name: Deploy the GeoJSON to `gh-pages`
         uses: peaceiris/actions-gh-pages@v3
