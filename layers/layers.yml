@@ -960,7 +960,7 @@
       - class
       - path
   paint:
-    line-color: "#f8f4f0"
+    line-color: $road-color
     line-width:
       base: 1.2
       stops:
@@ -985,7 +985,7 @@
       - class
       - path
   paint:
-    line-color: "#cba"
+    line-color: $road-color
     line-width:
       base: 1.2
       stops:
